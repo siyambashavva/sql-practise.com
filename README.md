@@ -11,7 +11,7 @@ Her ne kadar soruyu çözdükten sonra çözümü gösterse de soruya farklı ba
 
 
 ## EN
-This website consists of questions at different levels where you can test and improve your SQL knowledge. There are two different databases you can practice with, <span style="color: red;">**hospital.db**</span>  and <span style="color: red;">**nortwind.db**</span>. The levels are as follows:
+This website consists of questions at different levels where you can test and improve your SQL knowledge. There are two different databases you can practice with, <span style="color: red;">**hospital.db**</span>  and <span style="color: red;">nortwind.db</span>. The levels are as follows:
 
 - **Easy**
 - **Medium**
