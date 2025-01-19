@@ -1,6 +1,6 @@
 # [www.sql-practice.com](https://www.sql-practice.com/)
 ## TR
-Bu website SQL bilgilerinizi test edebileceğiniz ve geliştirebileceğiniz farklı seviyelerdeki sorulardan oluşmakta.Pratik yapabileceğiniz iki farklı veritabanı bulunmakta  <span style="color: red;">**hospital.db**</span> ve <span style="color: red;">**nortwind.db**</span>Seviyeler ise şu şekilde:
+Bu website SQL bilgilerinizi test edebileceğiniz ve geliştirebileceğiniz farklı seviyelerdeki sorulardan oluşmakta.Pratik yapabileceğiniz iki farklı veritabanı bulunmakta $${\color{red}hospital.db}$$ ve $${\color{red}northwind.db}$$ Seviyeler ise şu şekilde:
 
 - **Easy**
 - **Medium**
@@ -11,7 +11,7 @@ Her ne kadar soruyu çözdükten sonra çözümü gösterse de soruya farklı ba
 
 
 ## EN
-This website consists of questions at different levels where you can test and improve your SQL knowledge. There are two different databases you can practice with, <span style="color: red;">**hospital.db**</span>  and $${\color{red}northwind.db}$$. The levels are as follows:
+This website consists of questions at different levels where you can test and improve your SQL knowledge. There are two different databases you can practice with, $${\color{red}hospital.db}$$  and $${\color{red}northwind.db}$$. The levels are as follows:
 
 - **Easy**
 - **Medium**
